@@ -5,3 +5,10 @@
 2018-05-22 11:05:06 INFO     db_transfer.py:205 db start server at port [2333] pass [b'doub.io'] protocol [b'auth_aes128_md5'] method [b'aes-128-ctr'] obfs [b'tls1.2_ticket_auth_compatible']
 2018-05-22 11:05:06 INFO     server_pool.py:127 starting server at [::]:2333
 2018-05-22 11:05:06 INFO     server_pool.py:153 starting server at 0.0.0.0:2333
+2018-05-22 11:25:52 INFO     util.py:85 loading libcrypto from libcrypto.so.1.0.0
+2018-05-22 11:25:52 INFO     asyncdns.py:324 dns server: [('127.0.1.1', 53)]
+2018-05-22 11:25:52 INFO     shell.py:72 ShadowsocksR 3.4.0 2017-07-27
+2018-05-22 11:25:52 INFO     db_transfer.py:238 current process RLIMIT_NOFILE resource: soft 512000 hard 512000
+2018-05-22 11:25:52 INFO     db_transfer.py:205 db start server at port [2333] pass [b'doub.io'] protocol [b'auth_aes128_md5'] method [b'aes-128-ctr'] obfs [b'tls1.2_ticket_auth_compatible']
+2018-05-22 11:25:52 INFO     server_pool.py:127 starting server at [::]:2333
+2018-05-22 11:25:52 INFO     server_pool.py:153 starting server at 0.0.0.0:2333
