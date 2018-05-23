@@ -29,8 +29,12 @@ htmlcov
 
 .DS_Store
 .idea
-
+#Ignore project
+.project
+.pydevproject
+*eclipse*
+.settings
 # Ignore user config
-user-config.json
-userapiconfig.py
-usermysql.json
+#user-config.json
+#userapiconfig.py
+#usermysql.json
